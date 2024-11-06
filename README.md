@@ -4,6 +4,7 @@ This repository contains a collection of SwiftUI interview questions that cover 
 
 ---
 ## Prepared & maintained by [Shobhakar Tiwari](https://github.com/shobhakartiwari) 
+Link to donwload file : [SwiftUI-Interview-questions.pdf](https://github.com/user-attachments/files/17641983/SwiftUI-Interview-questions.pdf)
 
 ## SwiftUI vs UIKit
 
