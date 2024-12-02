@@ -189,6 +189,9 @@ Link to donwload file : [SwiftUI-Interview-questions.pdf](https://github.com/use
 - **What is `@Environment` and `@EnvironmentObject`’s role in managing orientation?**
   `@Environment`
 
+## Why Does SwiftUI Use Struct for Views Instead of Class?
+- follow my answer on medium : https://medium.com/@shobhakartiwari/why-does-swiftui-use-struct-for-views-instead-of-class-8cff0f5d2073
+
 ---
 
 Feel free to contribute by adding more questions or submitting PRs for answers to these questions!
