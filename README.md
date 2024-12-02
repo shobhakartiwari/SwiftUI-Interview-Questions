@@ -192,6 +192,9 @@ Link to donwload file : [SwiftUI-Interview-questions.pdf](https://github.com/use
 ## Why Does SwiftUI Use Struct for Views Instead of Class?
 - follow my answer on medium : https://medium.com/@shobhakartiwari/why-does-swiftui-use-struct-for-views-instead-of-class-8cff0f5d2073
 
+## Difference between Completion handler vs Task in Swift ?
+- refer to my article over medium : [https://lnkd.in/ga43pYE3](https://medium.com/@shobhakartiwari/completion-handlers-vs-tasks-in-swift-471645f8234d)
+  
 ---
 
 Feel free to contribute by adding more questions or submitting PRs for answers to these questions!
